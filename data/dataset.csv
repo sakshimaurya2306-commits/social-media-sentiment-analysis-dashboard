@@ -1,0 +1,51 @@
+text,sentiment
+I love this product,positive
+This is amazing,positive
+Absolutely fantastic experience,positive
+Very happy with the service,positive
+Great quality and fast delivery,positive
+Superb performance,positive
+I really liked it,positive
+Best purchase ever,positive
+Highly recommend this,positive
+This made my day,positive
+
+This is terrible,negative
+Worst experience ever,negative
+I hate this product,negative
+Very bad quality,negative
+Not worth the money,negative
+Extremely disappointing,negative
+Waste of money,negative
+Poor service,negative
+Totally useless,negative
+Very frustrating experience,negative
+
+It is okay,neutral
+Average product,neutral
+Nothing special,neutral
+It works fine,neutral
+Not bad not good,neutral
+Decent quality,neutral
+Satisfactory performance,neutral
+Okayish experience,neutral
+Just normal,neutral
+Neither good nor bad,neutral
+
+Amazing service and support,positive
+Loved the design and quality,positive
+Really impressed with this product,positive
+Excellent customer care,positive
+Works perfectly as expected,positive
+
+This product broke in one day,negative
+Very poor packaging,negative
+I am unhappy with this purchase,negative
+Completely disappointed,negative
+Bad experience overall,negative
+
+It does the job,neutral
+Average experience,neutral
+Nothing impressive,neutral
+Just fine,neutral
+Okay product,neutral
