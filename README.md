@@ -208,17 +208,13 @@ streamlit run app/app.py
 
 
 ![Prediction](images/Sentiment_trends.jpeg)
----
 
 ### 📉 Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.jpeg)
 
 ```
-
-
-
 ---
-
+```
 ## 📈 Results
 
 * Accurate sentiment classification using ML
